@@ -3119,11 +3119,11 @@ STR_5616    :{SMALLFONT}{BLACK}Último elemento para a bandeira do azulejo
 STR_5617    :{SMALLFONT}{BLACK}Move elemento selecionado para cima.
 STR_5618    :{SMALLFONT}{BLACK}Move elemento selecionado para baixo.
 STR_5619    :RollerCoaster Tycoon
-STR_5620    :Expanção: Novas Atrações
-STR_5621    :Expanção: Loopy Landscapes
+STR_5620    :Expansão: Novas Atrações
+STR_5621    :Expansão: Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
-STR_5623    :Expanção: Wacky Worlds
-STR_5624    :Expanção: Time Twister
+STR_5623    :Expansão: Wacky Worlds
+STR_5624    :Expansão: Time Twister
 STR_5625    :Parques “Reais”
 STR_5626    :Outros parques
 STR_5627    :Agrupar lista de cenário por:
